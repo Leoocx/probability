@@ -3,7 +3,7 @@
     https://en.wikipedia.org/wiki/Linear_congruential_generator
 */ 
 
-public class Random {
+public class LCG {
 
     public static long randomNum(long xi, long a, long c, long m) {
         long xii;
